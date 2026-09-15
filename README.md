@@ -23,3 +23,8 @@ There are Five Generation of Computers I am describing 1 , 2 and 5th Generation 
 
 3 . **Fifth Generation Current generation AI:** Highly compact and small devices easy to use and most reliable then any other generations computers.
 
+#### Student Information
+
+Completed By Rayyan M Khan
+
+Roll Number : 26K-3162
